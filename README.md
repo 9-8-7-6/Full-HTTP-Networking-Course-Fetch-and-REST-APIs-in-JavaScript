@@ -10,3 +10,5 @@
 8. JavaScript有URL這個function可以把url解析成需要的部分，例如Protocol和Hostname, Port等等，舉例來說const Url_Output = new URL('https://example.com/path?query=string')
 9. Http的默認端口是80，Tttps的是443，也可以透過指定端口
 10. URL只需要有Protocol和Domain即是valid
+![Alt text](https://i.imgur.com/6xdCiUv.png)
+11. 
